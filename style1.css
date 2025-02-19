@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap');
+
+
+
+body{
+    background-color: #f3d0b0;
+}
+section{
+    background-color: white;
+    border-radius: 25px;
+    width: 40%;
+    margin: 9% auto auto auto;
+    padding-top: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+    
+
+
+img {
+    display: block;
+    width: 99%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;}
+
+.titlecontainer>h1{
+    font-family: "Pacifico", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 50px;
+    padding-top: 10px;
+    margin-bottom: 0px;}
+p{
+    font-family: "Figtree", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-size: 13px;
+    margin-top: 7px;}
+.Preparationlist{
+    background-color: #eed9c42d;
+    height: 130px;
+    border-radius: 10px;}
+dt{
+    color: purple;
+    font-family: cursive;
+    font-size: 19px;
+    font-weight: 800;
+    margin-left: 20px;
+    padding-top: 9px;}
+
+.Preparationlist ul{
+        list-style-type: disc 10px;
+        list-style-position: inside;
+        font-size: 13px;
+        font-family: "Figtree", serif;
+        font-optical-sizing: auto;
+        font-weight: weight;
+        font-style: normal;
+        padding: 0%;}
+
+.Preparationlist ul li{
+    margin-bottom: 10px;
+    margin-left: 22px;}
+dd{
+    margin-top: 11px;
+    margin-left: 0px;}
+
+.ingredients h2{
+    margin: 20px auto 10px auto ;
+    font-family: "Nunito", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    color: rgb(179, 103, 4);
+    font-weight: bolder;
+    font-size: 35px;
+
+}
+ul{
+    list-style: disc;
+    font-family: "Figtree", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-size: 13px;
+    padding: 0%;}
+.ingredients ul li{
+    margin-left: 20px;
+    padding-left: 10px;
+    padding-top: 7px;}
+
+.intrusctions h2 {
+    margin: 20px auto 10px auto ;
+    font-family: "Nunito", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    color: rgb(179, 103, 4);
+    font-weight: bolder;
+    font-size: 35px;
+}
+
+
+
+
+
+
+
