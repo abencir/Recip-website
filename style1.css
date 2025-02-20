@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&family=Goudy+Bookletter+1911&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap');
 
@@ -31,8 +31,9 @@ img {
     margin-right: auto;}
 
 .titlecontainer>h1{
-    font-family: "Pacifico", serif;
-    font-weight: 400;
+    font-family: "Figtree", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
     font-style: normal;
     font-size: 50px;
     padding-top: 10px;
@@ -107,6 +108,7 @@ ul{
     font-weight: bolder;
     font-size: 35px;
 }
+
 
 
 
